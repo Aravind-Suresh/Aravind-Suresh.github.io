@@ -1,1 +1,1 @@
-My blog. Can be viewed at [Aravind Suresh](aravind-suresh.github.io)
+My personal site. Can be viewed at [Aravind Suresh](http://aravind-suresh.github.io/)
